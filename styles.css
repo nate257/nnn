@@ -180,7 +180,7 @@ body {
       rgba(0, 0, 0, 0.4), 
       rgba(0, 0, 0, 0.4)
     ),
-    url("../header.jpg") center/cover no-repeat;
+    url("header.jpg") center/cover no-repeat;
   color: var(--white);
   height: 500px; /* or 500px, depending on how big you want it */
   display: flex;
